@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #9ea2a1;
+}
+h2{
+    font-family: sans-serif;
+    color: #ffffff;
+}
+ul{
+    list-style-type: none;
+    overflow: hidden;
+    padding: 0px;
+    margin: 0px;
+
+}
+ul{
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(12, 12, 12);
+    display: block;
+    background-color: rgba(60, 77, 81, 0.512);
+}
+li{
+    float: right;
+}
+/* Navbar text color*/
+a{
+    color: black;
+    text-decoration: none;
+    
+}
